@@ -29,16 +29,6 @@
     color: #0F0F0F;
 }
 
-.row-header-aboutus-corp-leadership {
-    padding-top: 40px;
-    margin: 0px auto;
-}
-
-.row-content-aboutus-corp-leadership {
-   padding-bottom: 40px;
-   margin: 0px auto;
-}
-
 body {
     padding: 50px 0px 0px 0px;
     z-index: 0;
@@ -46,8 +36,4 @@ body {
 
 .navbar-dark {
     background-color: #512DA8;
-}
-
-.navbar-logo-custom-padding {
-    padding-right: 10px;
 }
